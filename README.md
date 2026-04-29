@@ -13,7 +13,9 @@ Performance Analytics: Detailed logs of training stability, loss behaviors, and 
 
 ## Model Comparison
 <img width="569" height="282" alt="image" src="https://github.com/user-attachments/assets/d9238c8f-0a84-441f-99fa-6dd487763662" />
+####cDCGAN:
 <img width="720" height="481" alt="image" src="https://github.com/user-attachments/assets/961f6d5c-6db4-4538-b32a-187316382ac9" />
+####cGAN
 <img width="740" height="485" alt="image" src="https://github.com/user-attachments/assets/026c6bd2-9936-4be5-8779-b3074cdf563b" />
 <img width="708" height="289" alt="image" src="https://github.com/user-attachments/assets/4bf5f690-bca9-49a2-bbdc-7224aeac8e32" />
 
