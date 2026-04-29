@@ -12,26 +12,11 @@ Variational Output: Generate up to 8 unique stylistic variations for any given d
 Performance Analytics: Detailed logs of training stability, loss behaviors, and epoch timings.  
 
 ## Model Comparison
-Feature	cGAN (Fully-Connected)	CDCGAN (Convolutional)
-Training Speed	
-~16.8 seconds/epoch  
+<img width="569" height="282" alt="image" src="https://github.com/user-attachments/assets/d9238c8f-0a84-441f-99fa-6dd487763662" />
+<img width="720" height="481" alt="image" src="https://github.com/user-attachments/assets/961f6d5c-6db4-4538-b32a-187316382ac9" />
+<img width="740" height="485" alt="image" src="https://github.com/user-attachments/assets/026c6bd2-9936-4be5-8779-b3074cdf563b" />
+<img width="708" height="289" alt="image" src="https://github.com/user-attachments/assets/4bf5f690-bca9-49a2-bbdc-7224aeac8e32" />
 
-~70 seconds/epoch  
-
-Stability	
-Unstable; loss fluctuations  
-
-Highly stable; smooth loss curves  
-
-Visual Quality	
-Blurry; inconsistent structure  
-
-Sharp; realistic handwritten style  
-
-Preprocessing	
-Flattened 28×28 vectors  
-
-Resized 32×32 tensors  
 
 ## Technical Implementation
 ### Architecture Details
@@ -50,7 +35,10 @@ Input Digits: Enter any number sequence to be synthesized.
 
 Adjust Variations: Use a slider to generate multiple different "handwriting" styles for the same number.  
 
-Export: Download the final synthesized image as a PNG.  
+Export: Download the final synthesized image as a PNG. 
+
+<img width="705" height="355" alt="image" src="https://github.com/user-attachments/assets/36ccd266-fce5-48d8-9332-f7ee4692d1f0" />
+
 
 ## Requirements
 Python 3.x
